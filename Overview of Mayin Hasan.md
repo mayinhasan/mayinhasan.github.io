@@ -2,9 +2,6 @@
 
 Welcome to [mayinhasan.github.io](https://mayinhasan.github.io)! This is the personal website of Md. Mayin Uddin Hasan, where you can find information about my work, projects, and interests.
 
-## About
-
-This site is built using GitHub Pages and is designed to showcase my projects, share insights, and provide updates on my work. Feel free to explore the different sections to learn more about what I'm working on.
 
 ## Contact
 
@@ -111,21 +108,7 @@ Motivated student specializing in global health, with a focus on developing and 
 - Team-working
 - Content Writing
 
-## References
 
-- **Tuhin Biswas, PhD**  
-  Research Fellow, ARC Centre of Excellence for Children and Families over the Life Course, Institute for Social Science Research, The University of Queensland  
-  Email: [tuhin.biswas@auw.edu.bd](mailto:tuhin.biswas@auw.edu.bd)
-
-- **Md Shajedur Rahman Shawon, PhD**  
-  Assistant Professor, Dept. of Public Health, Asian University for Women, Chattogram, Bangladesh  
-  Email: [s.shawon@unsw.edu.au](mailto:s.shawon@unsw.edu.au)  
-  Alt: [dr.shajedur@gmail.com](mailto:dr.shajedur@gmail.com)
-
-- **Mohammad Injamul Hoq, MPH**  
-  Assistant Professor, Department of Public Health, School of Arts and Social Science, University Of Creative Technology Chittagong  
-  Email: [injamul@uctc.edu.bd](mailto:injamul@uctc.edu.bd)  
-  Mobile: (+880) 1951060585
 
 Thank you for visiting!
 
