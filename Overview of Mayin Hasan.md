@@ -14,13 +14,6 @@ Welcome to [mayinhasan.github.io](https://mayinhasan.github.io)! This is the per
 Motivated student specializing in global health, with a focus on developing and implementing programs to improve community well-being. I am committed to research and advocacy, aiming to promote healthy lifestyles and address health disparities. Seeking to advance my expertise through a Public Health graduate program, where I can contribute to meaningful health initiatives on a global scale.
 
 ## Academic Credentials
-
-- **Master of Public Health (MPH)** (July 2024 – Present)  
-  Major: Epidemiology  
-  School of Arts and Social Science, University of Creative Technology Chittagong, Bangladesh  
-  CGPA: Remaining  
-  Total credit hours: 15/80
-
 - **Bachelor of Pharmacy (Hons)** (Nov 2019 – May 2024)  
   Faculty of Science and Engineering, International Islamic University Chittagong, Bangladesh  
   CGPA: 3.45/4.00  
@@ -42,7 +35,26 @@ Motivated student specializing in global health, with a focus on developing and 
 
 ## Publication
 
-- **Hoq MI, Jahan S, Mahmud MH, Hasan MMU, Jakaria M.** Breast cancer screening awareness, practice, and perceived barriers: a community-based cross-sectional study among women in south-eastern Bangladesh. Health Science Report. 2024;7: e1799. [https://doi.org/10.1002/hsr2.1799](https://doi.org/10.1002/hsr2.1799)
+## 2025
+- **Mar 25**  
+  Hasan MMU, Hoq MI, Tanju RI, Jakaria M, Sayeed MA.  
+  *Breast Cancer Awareness, Screening Practices, and Perceived Barriers Among Female Undergraduate Students: An Institution-Based Cross-Sectional Study.*  
+  _Cancer Reports._ 2025 Mar; 8(3):e70187.  
+  [https://doi.org/10.1002/cnr2.70187](https://doi.org/10.1002/cnr2.70187)
+
+## 2024
+- **Dec 24**  
+  Hasan, M. M. U., Ahmed, S., & Sultan, M. Z.  
+  *Assessment of residue levels and health risk of carbofuran, chlorpyriphos, abamectin, imidacloprid, and pretilachlor in locally available fruits in Dhaka, Bangladesh.*  
+  _Journal of Food Technology Research_, 11(4), 109–117.  
+  [https://doi.org/10.18488/jftr.v11i4.4013](https://doi.org/10.18488/jftr.v11i4.4013)
+
+- **Jan 24**  
+  Hoq MI, Jahan S, Mahmud MH, Hasan MMU, Jakaria M.  
+  *Breast cancer screening awareness, practice, and perceived barriers: a community‐based cross-sectional study among women in south‐eastern Bangladesh.*  
+  _Health Science Report._ 2024; 7: e1799.  
+  [https://doi.org/10.1002/hsr2.1799](https://doi.org/10.1002/hsr2.1799)
+
 
 ## Technical Skills
 
